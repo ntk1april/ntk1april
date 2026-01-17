@@ -1,6 +1,6 @@
-- 👋 Hello There, I’m @ntk1april
+- 👋 Hello there, I’m @ntk1april
 - 🏫 I’m currently a Bachelor of Engineering Program in ⚙️ Computer Engineering and Artificial Intelligence.
 - 🤩 My Hobby is 🎮 Playing a game computer, 🎧 Listening to the song, 🔎 Learning What I wanna know, And 😴 Sleeping.
-- 🎯 My Objective is 💻 Front-end developer or full-stack developer if I can.
-- 💯 Slogan: Live like you're gonna die tomorrow.🔥And learn like you will live forever.
+- 🎯 My Objective is 💻 Front-end developer or a Full-stack developer if I can.
+- 💯 Slogan: Live as you're gonna die tomorrow.🔥And learn as you will live forever.
 - 📧 Contact: nanthakorn.officail@gmail.com
