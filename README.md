@@ -26,22 +26,17 @@
   </a>
 </p>
 
-
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,bootstrap,css,cypress,electron,express,figma,firebase,git,html,java,js,mongodb,mysql,nextjs,nodejs,photoshop,postman,py,react,selenium,spring,tailwind,ts" />
-</p>
+### 📊 Stats
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ntk1april&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ntk1april&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntk1april&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-</p>
-
-### 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntk1april&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
