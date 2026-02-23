@@ -12,9 +12,6 @@
 
 ### 🤝 Connect with me
 <p align="center">
-  <a href="https://github.com/ntk1april">
-    <img src="https://img.shields.io/badge/GitHub-ntk1april-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.facebook.com/nanthakorn.nueng">
     <img src="https://img.shields.io/badge/Facebook-nanthakorn.nueng-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
